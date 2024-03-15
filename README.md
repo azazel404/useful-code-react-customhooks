@@ -1,6 +1,6 @@
-# Javascript React Mini Custom Hook
+# Useful Code Custom Hooks Fo Reactjs Hooks
 
-A simple package for managing reactions on Discord messages.
+A simple package useful-custom-react-hooks
 
 ## Installation
 
