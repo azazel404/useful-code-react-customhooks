@@ -1,4 +1,4 @@
-# Useful Code Custom Hooks Fo Reactjs Hooks
+# Useful Code Custom React Hooks
 
 A simple package useful-custom-react-hooks
 
