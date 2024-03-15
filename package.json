@@ -1,11 +1,11 @@
 {
-    "name": "useful-custom-react-hooks",
+    "name": "useful-code-react-customhooks",
     "version": "0.1.0",
     "description": "A simple package useful-custom-react-hooks",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/azazel404/useful-custom-hook-react"
+        "url": "https://github.com/azazel404/useful-code-react-customhooks"
     },
     "keywords": [
         "reactjs",
@@ -14,9 +14,9 @@
         "useful-hooks"
     ],
     "bugs": {
-        "url": "https://github.com/azazel404/useful-custom-hook-react/issues"
+        "url": "https://github.com/azazel404/useful-code-react-customhooks/issues"
     },
-    "homepage": "https://github.com/azazel404/useful-custom-hook-react#readme",
+    "homepage": "https://github.com/azazel404/useful-code-react-customhooks#readme",
     "dependencies": {
         "@testing-library/jest-dom": "^5.14.1",
         "@testing-library/react": "^11.2.7",
